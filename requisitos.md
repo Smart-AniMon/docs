@@ -3,7 +3,7 @@
 
 
 
-1. [Entradas.](#1.-entradas)
+1. [Entradas.](#1-.-entradas)
 2. [Saídas.](#saídas)
 3. [Funcionalidades.](#funcionalidades)
 4. [Requisitos não funcionais.](#requisitos-não-funcionais)
