@@ -6,8 +6,8 @@ Neste repositório estão disponíveis as documentações referente à modelagem
 
 ### Índice:
 
-1. [Requisitos](.requisitos.md)
-2. [Especificações dos componentes](.especificacoes)
+1. [Requisitos](./requisitos.md)
+2. [Especificações dos componentes](./especificacoes)
 
 ### Autores
 
