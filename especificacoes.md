@@ -1,0 +1,88 @@
+# Especificações do Sistema
+> Descrição das especificações de componentes do Sistema.
+
+
+
+**Módulos**
+
+1. [Sensor de Movimento.](#sensor-de-movimento)
+2. [Sensor de Umidade e Temperatura.](#sensor-de-umidade-e-temperatura)
+3. [Sistema de Localização e tempo.](#sistema-de-localização-e-tempo)
+4. [Hardware do módulo.](#hardware-do-modulo)
+
+**Servidor**
+
+5. [Hardware.](#hardware-do-servidor)
+
+
+
+---
+
+
+
+### 1. Sensor de Movimento
+
+| Sensor de Presença e Movimento - PIR|                                |
+|:------------------------------------:|:-----------------------------:|
+|                **Modelo**                |           DYP ME003           |
+|              **Qtd**                 |               1               |
+|         **Tensão de Op.**            |           4,5V a 20V          |
+|        **Tensão de Dados**           | 3,3V (C/ Mov.) e 0V (S/ Mov.) |
+|           **Interface**              |            Digital            |
+|            **Pinagem**               |        VCC, GND e Dados       |
+|           **Faixa de Alcance**           |            3m a 7m            |
+|          **Outras Informações**          |          [Datasheet](https://siccciber.com.br/wp-content/uploads/2020/06/FTC-PIR.pdf)      |
+
+---
+
+### 2. Sensor de Umidade e Temperatura
+
+| Sensor de Umidade e Temperatura |                                                              |
+| :-----------------------------: | :----------------------------------------------------------: |
+|           **Modelo**            |                            DHT11                             |
+|             **Qtd**             |                              1                               |
+|        **Tensão de Op.**        |                         3V a 5V (DC)                         |
+|          **Corrente**           |                        200uA a 500mA                         |
+|     **Faixa Umidade Rel.**      |                       (20% a 90%) ± 5%                       |
+|      **Faixa Temperatura**      |                     (0ºC - 50ºC ) ± 2ºC                      |
+|          **Precisão**           |                           16 bits                            |
+|          **Interface**          |                        Single Serial                         |
+|           **Pinagem**           |                     VCC, GND, Dados e NC                     |
+|      **Tempo de resposta**      |                              2s                              |
+|     **Outras Informações**      | [Datasheet](https://img.filipeflop.com/files/download/Datasheet_DHT11.pdf) |
+
+---
+
+### 3. Sistema de Localização e Tempo
+
+|   Módulo GPS + Antena   |                                                              |
+| :---------------------: | :----------------------------------------------------------: |
+|       **Modelo**        |                          GY-GPS6MV1                          |
+|         **Qtd**         |                              1                               |
+|    **Tensão de Op.**    |                        3,3V a 5V (DC)                        |
+|      **Interface**      |                       UART, USB ou SPI                       |
+| **Tensão da Interface** |                             3,3V                             |
+| **Taxa de Tx. Padrão**  |                             9600                             |
+|       **Pinagem**       |                      VCC, GND, TX e RX                       |
+| **Outras Informações**  | [Datasheet](https://www.usinainfo.com.br/index.php?controller=attachment&id_attachment=97) |
+
+---
+
+### 4. Hardware do Módulo
+
+| Módulo - Raspberry c/ wifi |               |
+| :------------------------: | :-----------: |
+|         **Modelo**         | Pi 3 modelo B |
+|          **Qtd**           |       1       |
+|          **RAM**           |      1GB      |
+|        **MicroSD**         |      5GB      |
+
+---
+
+### 5. Hardware do Servidor
+|  Servidor  |                    |
+| :--------: | :----------------: |
+| **Modelo** | Instância em Nuvem |
+|  **Qtd**   |         1          |
+|  **RAM**   |     4GB (8GB)      |
+|   **HD**   |        1 TB        |
