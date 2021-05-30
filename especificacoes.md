@@ -5,15 +5,15 @@
 
 **Módulos**
 
-1. [Sensor de Movimento.](#sensor-de-movimento)
-2. [Sensor de Umidade e Temperatura.](#sensor-de-umidade-e-temperatura)
-3. [Sistema de Localização e tempo.](#sistema-de-localização-e-tempo)
-4. [Dispositivo fotográfico.](#dispositivo-fotografico)
-5. [Hardware do módulo.](#hardware-do-modulo)
+1. [Sensor de Movimento.](#1-sensor-de-movimento)
+2. [Sensor de Umidade e Temperatura.](#2-sensor-de-umidade-e-temperatura)
+3. [Sistema de Localização e tempo.](#3-sistema-de-localização-e-tempo)
+4. [Dispositivo fotográfico.](#4-dispositivo-fotografico)
+5. [Hardware do módulo.](#5-hardware-do-modulo)
 
 **Servidor**
 
-6. [Hardware.](#hardware-do-servidor)
+6. [Hardware.](#6-hardware-do-servidor)
 
 
 
