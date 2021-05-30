@@ -86,3 +86,15 @@
 |  **Qtd**   |         1          |
 |  **RAM**   |     4GB (8GB)      |
 |   **HD**   |        1 TB        |
+
+---
+
+### 6. Dispositivo fotográfico
+| Dispositivo fotográfico |                                     |
+|:-----------------------:|:-----------------------------------:|
+|        **Modelo**       |        Camera Module v1 / v2        |
+|         **Qtd**         |                  1                  |
+|      **Resolução**      |           5 / 8 Megapixels          |
+|         **Modo**        | 1080p30, 720p60 and 640 × 480p60/90 |
+|         **Luz**         |            Infravermelho            |
+|      **Interface**      |            Serial ou USB            |
