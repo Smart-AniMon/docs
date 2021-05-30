@@ -3,11 +3,11 @@
 
 
 
-1. [Entradas.](#1-.-entradas)
-2. [Saídas.](#saídas)
-3. [Funcionalidades.](#funcionalidades)
-4. [Requisitos não funcionais.](#requisitos-não-funcionais)
-5. [Restrições.](#restrições)
+1. [Entradas.](#1-entradas)
+2. [Saídas.](#2-saídas)
+3. [Funcionalidades.](#3-funcionalidades)
+4. [Requisitos não funcionais.](#4-requisitos-não-funcionais)
+5. [Restrições.](#5-restrições)
 
 ---
 
