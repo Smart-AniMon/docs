@@ -8,11 +8,12 @@
 1. [Sensor de Movimento.](#sensor-de-movimento)
 2. [Sensor de Umidade e Temperatura.](#sensor-de-umidade-e-temperatura)
 3. [Sistema de Localização e tempo.](#sistema-de-localização-e-tempo)
-4. [Hardware do módulo.](#hardware-do-modulo)
+4. [Dispositivo fotográfico.](#dispositivo-fotografico)
+5. [Hardware do módulo.](#hardware-do-modulo)
 
 **Servidor**
 
-5. [Hardware.](#hardware-do-servidor)
+6. [Hardware.](#hardware-do-servidor)
 
 
 
@@ -68,7 +69,19 @@
 
 ---
 
-### 4. Hardware do Módulo
+### 4. Dispositivo fotográfico
+| Dispositivo fotográfico |                                     |
+|:-----------------------:|:-----------------------------------:|
+|        **Modelo**       |        Camera Module v1 / v2        |
+|         **Qtd**         |                  1                  |
+|      **Resolução**      |           5 / 8 Megapixels          |
+|         **Modo**        | 1080p30, 720p60 and 640 × 480p60/90 |
+|         **Luz**         |            Infravermelho            |
+|      **Interface**      |            Serial ou USB            |
+
+---
+
+### 5. Hardware do Módulo
 
 | Módulo - Raspberry c/ wifi |               |
 | :------------------------: | :-----------: |
@@ -79,22 +92,10 @@
 
 ---
 
-### 5. Hardware do Servidor
+### 6. Hardware do Servidor
 |  Servidor  |                    |
 | :--------: | :----------------: |
 | **Modelo** | Instância em Nuvem |
 |  **Qtd**   |         1          |
 |  **RAM**   |     4GB (8GB)      |
 |   **HD**   |        1 TB        |
-
----
-
-### 6. Dispositivo fotográfico
-| Dispositivo fotográfico |                                     |
-|:-----------------------:|:-----------------------------------:|
-|        **Modelo**       |        Camera Module v1 / v2        |
-|         **Qtd**         |                  1                  |
-|      **Resolução**      |           5 / 8 Megapixels          |
-|         **Modo**        | 1080p30, 720p60 and 640 × 480p60/90 |
-|         **Luz**         |            Infravermelho            |
-|      **Interface**      |            Serial ou USB            |
