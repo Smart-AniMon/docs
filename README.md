@@ -1,2 +1,2 @@
 # docs
-Repositório com documentações de modelagem e especificaão do projeto Smart AniMon
+Repositório com documentações de modelagem e especificação do projeto Smart AniMon
