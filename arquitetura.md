@@ -9,3 +9,4 @@
 ![Arquitetura do Módulo](./images/Arquitetura_Modulo.png)
 
 ### Arquitura do Servidor
+![Arquitetura do Servidor](./images/Arquitetura_Servidor.png)
