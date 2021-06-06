@@ -16,6 +16,11 @@
 6. [Hardware.](#6-hardware-do-servidor)
 7. [Serviço de Identificação de Imagens](#7-serviço-de-identificação)
 
+**Energia**
+
+8. [Armazenador de energia.](#8-armazenador-de-energia)
+9. [Gerador de energia.](#9-gerador-de-energia)
+
 
 
 ---
@@ -115,3 +120,24 @@
 |   **Tamanho máximo**   |        10MB (base64 no JSON)      |
 |   **Requisitos**   |        [Supported-files](https://cloud.google.com/vision/docs/supported-files)        |
 |   **Outras Informações**   |        [Cloud Vision](https://cloud.google.com/vision)        |
+
+---
+
+### 8. Armazenador de energia
+|    Bateria     |            |
+|  :----------:  | :--------: |
+|  **Modelo**    |     --     |
+|    **Qtd**     |     1      |
+|  **Tensão**    |     5V     |
+| **Corrente**   |     3A     |
+| **Capacidade** |  36000mAh  |
+| **Interface**  |     USB    |
+
+---
+
+### 9. Gerador de energia
+| Painel Fotovoltaico |     |
+|:-------------------:|:---:|
+|     **Modelo**      |  -- |
+|      **Qtd**        |  1  |
+|    **Potência**     | 30W |
