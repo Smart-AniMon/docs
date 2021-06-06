@@ -3,10 +3,9 @@
 
 
 
-**Arquitetura Geral**
+### Arquitetura Geral
 
-**Arquitura do Módulo**
+### Arquitura do Módulo
+![Arquitetura do Módulo](./images/Arquitetura_Modulo.png)
 
-**Arquitura do Servidor**
-
----
+### Arquitura do Servidor
