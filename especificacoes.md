@@ -14,6 +14,7 @@
 **Servidor**
 
 6. [Hardware.](#6-hardware-do-servidor)
+7. [Serviço de Identificação de Imagens](#7-serviço-de-identificação)
 
 
 
@@ -99,3 +100,18 @@
 |  **Qtd**   |         1          |
 |  **RAM**   |     4GB (8GB)      |
 |   **HD**   |        1 TB        |
+
+---
+
+### 7. Serviço de identificação
+|  Cloud Vision API  |                    |
+| :--------: | :----------------: |
+| **Empresa** | Google |
+|  **Interface**   |         APIs REST ou RPC          |
+|  **Preço**   |     1 mil a 5 milhões - US$4,50     |
+|   **Obs.:**   |        Gratuito até mil imagens        |
+|   **Arquivos Suportados**   |        JPEG, PNG8, PNG24, BMP e outros       |
+|   **Dimensão mínima**   |        640x480 pixels (aprox. 300 mil pixels)      |
+|   **Tamanho máximo**   |        10MB (base64 no JSON)      |
+|   **Requisitos**   |        [Supported-files](https://cloud.google.com/vision/docs/supported-files)        |
+|   **Outras Informações**   |        [Cloud Vision](https://cloud.google.com/vision)        |
