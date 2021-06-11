@@ -5,8 +5,11 @@
 
 ### Arquitetura Geral
 
-### Arquitura do Módulo
-![Arquitetura do Módulo](./images/Arquitetura_Modulo.png)
+![Arquitetura Geral](./images/arquitetura-geral.png)
 
-### Arquitura do Servidor
-![Arquitetura do Servidor](./images/Arquitetura_Servidor.png)
+### Arquitetura do Módulo
+![Arquitetura do Módulo](./images/arquitetura-modulo.png)
+
+### Arquitetura do Servidor
+![Arquitetura do Servidor](./images/arquitetura-servidor.png)
+
