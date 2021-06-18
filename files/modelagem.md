@@ -1,5 +1,5 @@
 # Modelagem do Sistema
-> Este documento contém algumas informações e diagramas da modelagem do sistema.
+> Este documento contém informações e diagramas da modelagem do sistema.
 
 **Índice**
 
