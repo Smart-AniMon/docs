@@ -9,8 +9,11 @@ Neste repositório estão disponíveis as documentações referente à modelagem
 1. [Requisitos](./files/requisitos.md)
 2. [Especificações](./files/especificacoes.md)
 3. [Arquitetura](./files/arquitetura.md)
-4. [Cronograma](./files/cronograma.md)
-5. [Diagramas UML](./files/diagramas.md)
+4. [Modelagem](./files/modelagem.md)
+5. [Cronograma](./files/cronograma.md)
+
+---
+
 ### Autores
 
 * [Camilla Barreto de Sousa](https://github.com/camillabarreto) - Instituto Federal de Santa Catarina (IFSC)
