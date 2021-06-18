@@ -18,7 +18,7 @@
 
 ---
 
-## 2. Fomato das Mensagens
+## 2. Formato das Mensagens
 
 ### Mensagem de Captura
 
