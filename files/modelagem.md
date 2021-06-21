@@ -12,6 +12,8 @@
 
 ### Módulo
 
+![Diagrama de Classes do Módulo](../images/module-class-diagram.png)
+
 ### Servidor
 
 ![Diagrama de Classes do Servidor de Processamento](../images/processing-server-class-diagram.png)
