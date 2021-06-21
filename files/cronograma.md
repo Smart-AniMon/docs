@@ -19,5 +19,15 @@
 |:-----:|:-:|:-:|:-:|:-:|:-:|
 |   Refinamento  | X | |   |   |   | 
 |   Detalhamento  | X |  |   |   |   |
-|   Desenvolvimento  |  | X |  X |  X |  X |
+|   Interface e Clientes MQTT  |  | X |   |   |   |
+|   Server - Interface API Vision  |  | X |   |   |  |
+|   Server - Cliente API Vision  |  | X |   |   |  |
+|   Module - Interface dos Sensores  |  | X |  |   |   |
+|   Module - Interface da Câmera  |  |  |  X |  X |   |
+|   Module - Classe da Câmera  |  |  |  X |  X |   |
+|   Server - Serviço de Identificação  |  | |  X |  X |  |
+|   Server - Interface e Cliente Banco de dados  |  | |  X |  X |  |
+|   Module - Controller |  |  |  X |  X |   |
+|   Module - Classes dos Sensores |  |  |  X |  X |   |
+|   Server - Aplicação Web |  | |  |  X |  |
 |   Testes  |   |   |  | X | X |
