@@ -29,7 +29,7 @@ A mensagem enviada do Módulo para o Servidor com informações da captura DEVE 
 ```json
 {
    "id":"String contendo identificador do Módulo",
-   "image":"Conteúdo da imagem em bytes e codificado em Base64",
+   "image":"String com conteúdo da imagem em bytes e codificado em Base64",
    "temperature":"float com valor da temperatura em ºC",
    "humidity":"float com valor da umidade relativa em %",
    "localization":{
