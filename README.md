@@ -4,13 +4,18 @@
 
 Neste repositório estão disponíveis as documentações referente à modelagem e especificação do sistema. Os repósitorios com códigos e instruções de implantação de cada componente do sistema podem ser encontrados em [Module](https://github.com/Smart-AniMon/module) e [Server](https://github.com/Smart-AniMon/server).
 
-### Índice:
+### Documentos e Diagramas:
 
 1. [Requisitos](./files/requisitos.md)
 2. [Especificações](./files/especificacoes.md)
 3. [Arquitetura](./files/arquitetura.md)
 4. [Modelagem](./files/modelagem.md)
 5. [Cronograma](./files/cronograma.md)
+
+### Repositórios com Códigos:
+
+1. [Módulo](https://github.com/Smart-AniMon/module)
+2. [Server](https://github.com/Smart-AniMon/server)
 
 ---
 
